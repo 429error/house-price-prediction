@@ -1,14 +1,14 @@
 # Housing Price Prediction in King County, USA
 
-This R project focuses on **Exploratory Data Analysis (EDA)** and **Predictive Modeling** to estimate housing prices using a real-world dataset from King County, USA. The dataset includes information about house features such as square footage, number of bedrooms and bathrooms, grade, and whether the property has waterfront access.
+This R project focuses on **Exploratory Data Analysis (EDA)** and **Predictive Modeling** to estimate housing prices using a real-world dataset from King County, USA. The dataset includes information about house features such as square footage, number of bedrooms and bathrooms, grade and whether the property has waterfront access.
 
 ## Objective
 
-The primary objective is to analyze the relationships between housing features and price, clean and engineer the data, visualize key patterns, and apply multiple regression techniques to build and compare prediction models.
+The primary objective is to analyze the relationships between housing features and price, clean and engineer the data, visualize key patterns and apply multiple regression techniques to build and compare prediction models.
 
 ## Project Highlights
 
-- Data cleaning, handling missing values, and feature transformation
+- Data cleaning, handling missing values and feature transformation
 - Visualizations to explore relationships and outliers
 - Creation of new features, including age and interaction terms
 - Implementation of three models for comparison:
